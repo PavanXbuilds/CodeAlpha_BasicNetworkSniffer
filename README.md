@@ -27,7 +27,7 @@ and decodes protocol-layer details in real time. Built during the **CodeAlpha Cy
 
 ## ⚡ Quick Start
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_BasicNetworkSniffer
+git clone https://github.com/PavanXbuilds/CodeAlpha_BasicNetworkSniffer
 cd CodeAlpha_BasicNetworkSniffer
 pip install scapy
 sudo python3 sniffer.py
