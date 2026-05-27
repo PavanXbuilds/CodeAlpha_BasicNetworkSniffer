@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue?style=flat-square&logo=python)
 ![Scapy](https://img.shields.io/badge/library-scapy-009688?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%2F%20macOS-blueviolet?style=flat-square)
 ![Protocols](https://img.shields.io/badge/protocols-TCP%20%C2%B7%20UDP%20%C2%B7%20ICMP-0891b2?style=flat-square)
 ![Mode](https://img.shields.io/badge/mode-live%20capture-orange?style=flat-square)
